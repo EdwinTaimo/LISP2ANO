@@ -1,0 +1,20 @@
+
+--- REGISTO GERADO AS 10:30:30 ---
+ID: 1 | Nome: Daniel Gimo | Estado: Ausente | Hora: --:--
+ID: 2 | Nome: Dercio Chipura | Estado: Ausente | Hora: --:--
+ID: 3 | Nome: Edwin Gema | Estado: Ausente | Hora: --:--
+ID: 4 | Nome: Elias Mufunde | Estado: Presente | Hora: 10:30:25
+ID: 5 | Nome: Kelven Gulane | Estado: Presente | Hora: 10:30:14
+
+--- REGISTO GERADO AS 10:31:32 ---
+ID: 1 | Nome: Daniel Gimo | Estado: Ausente | Hora: --:--
+ID: 2 | Nome: Dercio Chipura | Estado: Ausente | Hora: --:--
+ID: 3 | Nome: Edwin Gema | Estado: Ausente | Hora: --:--
+ID: 4 | Nome: Elias Mufunde | Estado: Presente | Hora: 10:30:25
+ID: 5 | Nome: Kelven Gulane | Estado: Presente | Hora: 10:30:14
+ID: 6 | Nome: Filipe Felix | Estado: Ausente | Hora: --:--
+
+--- REGISTO GERADO AS 10:31:57 ---
+
+--- REGISTO GERADO AS 10:40:56 ---
+ID: 5 | Nome: Jossamo Elias | Estado: Ausente | Hora: --:--
