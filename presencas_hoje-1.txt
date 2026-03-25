@@ -18,3 +18,13 @@ ID: 6 | Nome: Filipe Felix | Estado: Ausente | Hora: --:--
 
 --- REGISTO GERADO AS 10:40:56 ---
 ID: 5 | Nome: Jossamo Elias | Estado: Ausente | Hora: --:--
+
+
+
+--- REGISTO GERADO AS 10:31:32 ---
+ID: 1 | Nome: Daniel Gimo | Estado: Ausente | Hora: --:--
+ID: 2 | Nome: Dercio Chipura | Estado: Ausente | Hora: --:--
+ID: 3 | Nome: Edwin Taimo | Estado: Ausente | Hora: 09:30:25
+ID: 4 | Nome: Elias Link | Estado: Presente | Hora: 12:30:25
+ID: 5 | Nome: Deviz Gulane | Estado: Presente | Hora: 12:30:14
+ID: 6 | Nome: Filipe Felix | Estado: Ausente | Hora: --:--
